@@ -1,2 +1,6 @@
 four
+<<<<<<< HEAD
 four444
+=======
+four44
+>>>>>>> staging
